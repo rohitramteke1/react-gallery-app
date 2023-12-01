@@ -1,0 +1,8 @@
+.align-text {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    font-weight: 400;
+    width: 100%;
+}
